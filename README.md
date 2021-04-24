@@ -1,4 +1,4 @@
-#Project Title
+# Project Title
 COVID19: A geographical approach to understand the pandemics
 
 ## PygmalionTeam Members
