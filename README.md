@@ -13,7 +13,7 @@ https://github.com/robmir22/Project1_Pygmalion/blob/main/Data%20exploration%20an
 https://github.com/robmir22/Project1_Pygmalion/blob/main/Final%20Data%20Analysis.ipynb
 
 ## Project Writeup
-https://github.com/robmir22/Project1_Pygmalion/blob/main/Project_Safe_Travel.ipynb
+https://github.com/robmir22/Project1_Pygmalion/blob/main/Project%20Safe%20Travel.pdf
 
 ## Complete Project
 https://github.com/robmir22/Project1_Pygmalion/blob/main/Project_Safe_Travel.ipynb
