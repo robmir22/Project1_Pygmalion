@@ -9,6 +9,9 @@ https://docs.google.com/presentation/d/1LaWmpkbpc5Z7Fc7ys2hgLsMG-Mut2tf_CNey3wxV
 ## Project Data
 https://docs.google.com/document/d/1TDFSb3I7n3UZeBaQIdMz18m0RhSzXf-vroY5mHdWMS8/edit
 
+## Project Writeup
+https://github.com/robmir22/Project1_Pygmalion/blob/main/Safe_Travel.pdf 
+
 # Team Members
 
 ## Rafael Deyta 
