@@ -6,8 +6,8 @@ This project intends to present a geographical analysis on COVID19 statistics an
 ## Project Presentation
 https://docs.google.com/presentation/d/1LaWmpkbpc5Z7Fc7ys2hgLsMG-Mut2tf_CNey3wxVCLo/edit#slide=id.ga073618e60_0_16
 
-## Project Data
-https://docs.google.com/document/d/1TDFSb3I7n3UZeBaQIdMz18m0RhSzXf-vroY5mHdWMS8/edit
+## Project Data Exploration and Cleanup Process
+https://github.com/robmir22/Project1_Pygmalion/blob/main/Data%20exploration%20and%20clean%20up%20process.ipynb
 
 ## Project Writeup
 https://github.com/robmir22/Project1_Pygmalion/blob/main/Project_Safe_Travel.ipynb
