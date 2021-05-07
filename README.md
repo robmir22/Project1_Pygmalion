@@ -1,5 +1,4 @@
 # Safe Travels: Thriving against the odds
-Project Title
 
 ## Project Description/Outline
 This project intends to present a geographical analysis on COVID19 statistics and Crime rates to understand where should Mexico puts its very limited economic efforts to increase tourism (in 2021 and 2022).
